@@ -15,7 +15,7 @@ bool evenCharacters(string x){
 
 }
 
-
+//comment
 bool countVowels(string x){
 	map<char, int> vowels;
 		vowels['a'] = 1;
