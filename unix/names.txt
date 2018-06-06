@@ -1,0 +1,6 @@
+Ticker
+TSLA
+TSLA
+AMZN
+APPL
+NFLX

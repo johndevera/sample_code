@@ -127,15 +127,15 @@ int main (void){
 	cout << div_by_pow_2(28, 2) << endl;
 	int number1 = 10;
 	int number2 = 10;
-	//displayBitWiseCOMP(number1);
+	displayBitWiseCOMP(number1);
 	//displayBitWiseAND(number1, number2);
 	//displayBitWiseOR(number1, number2);
 	//displayBitWiseXOR(number1, number2);
-	setBit(3, 2); //0011=3. Take 1 (0001 and shift it 2 positions to left)
-	clearBit(3, 1); //0011=3. Take 1 (0001 and shift it 1 positions to left and comp it so u can & it)
-	toggleBit(3, 0); //0011=3. 
-	checkBit(3, 1); //0011=3. 
-	changeBit(3, 2, 1);
+	// setBit(3, 2); //0011=3. Take 1 (0001 and shift it 2 positions to left)
+	// clearBit(3, 1); //0011=3. Take 1 (0001 and shift it 1 positions to left and comp it so u can & it)
+	// toggleBit(3, 0); //0011=3. 
+	// checkBit(3, 1); //0011=3. 
+	// changeBit(3, 2, 1);
 	return 0;
 }
 // 000001 1
